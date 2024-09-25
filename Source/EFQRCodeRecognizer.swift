@@ -26,6 +26,7 @@
 
 #if canImport(CoreImage)
 import CoreImage
+import Foundation
 
 /// Class for recognizing QR code contents from images.
 @objcMembers
